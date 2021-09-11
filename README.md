@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ollysamuel
+- 👀 I’m interested in software development and artificial intelligence
+- 🌱 I’m currently studying for a Masters Degree in Computer Science with AI
+- 📫 How to reach me ollydrummer@gmail.com
